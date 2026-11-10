@@ -1,0 +1,16 @@
+numpy
+pandas
+opencv-python
+Pillow
+matplotlib
+scikit-learn
+scikit-image
+PyYAML
+tqdm
+jupyter
+# Install the deep-learning stack separately to match your hardware:
+# torch
+# torchvision
+# ultralytics
+# anomalib
+# streamlit

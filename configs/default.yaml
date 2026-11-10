@@ -1,0 +1,6 @@
+seed: 42
+image_size: 256
+dataset: mvtec_ad
+category: bottle
+data_dir: data
+results_dir: results
